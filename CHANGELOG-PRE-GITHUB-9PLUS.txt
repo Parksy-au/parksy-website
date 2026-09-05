@@ -1,0 +1,11 @@
+Parksy 9+ editorial/UX pass - September 2026
+
+- Protected V28 colours, fonts, logo and core homepage layout.
+- Rebuilt header hierarchy and created deliberate mobile header with always-visible Book Massage / Apply for Coaching actions.
+- Tightened homepage vertical rhythm and copy repetition.
+- Expanded Performance Coaching into the primary premium conversion page with programming, nutrition/macros, direct access, athlete/bodybuilding breadth, Stuart Google proof, process and FAQs.
+- Rebuilt About Parksy around why Michael is qualified, with photo-right desktop composition and clearer Optimal Health/OHC relationships.
+- Rebuilt Mermaid Beach sports massage page away from generic local-SEO-document presentation.
+- Simplified Articles hub.
+- Removed Australia-wide positioning from visible content.
+- Kept canonical URLs, dedicated pages, robots, sitemap and existing core schema architecture.

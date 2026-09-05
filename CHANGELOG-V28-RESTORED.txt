@@ -1,0 +1,19 @@
+V28 RESTORATION PASS
+Visual baseline preserved.
+
+Changed:
+- Homepage copy made more factual and inclusive.
+- Massage language updated without describing coaching as an add-on.
+- Public coaching page no longer states 12-week commitment; qualification remains on Apply page.
+- Existing testimonial labels corrected; added selected genuine Google review excerpts in same carousel style.
+- Added Google review link.
+- Why Choose content refined without layout changes.
+- About page enriched with Michael/Parksy training background.
+- Articles placeholder wording updated.
+- Homepage artificial BreadcrumbList schema removed.
+- Person/Business/Service entity relationships strengthened.
+- OAI-SearchBot explicitly allowed.
+- No aggregateRating schema added.
+
+Not changed:
+- Colours, fonts, spacing system, hero structure, page layouts, card design, navigation structure, URLs, pricing, Apply page commercial qualification.
